@@ -41,7 +41,7 @@ const tryLogin = () => {
 .bg {
   background-image: url('bg.svg');
   background-repeat: no-repeat;
-  background-position: 50% -150%;
+  background-position: 50px 50px;
   background-size: cover;
 }
 </style>
