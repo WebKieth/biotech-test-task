@@ -14,7 +14,7 @@ const tryLogin = () => {
 <template>
   <div class="w-screen h-screen flex flex-col bg">
     <Header />
-    <div class="flex-grow flex flex-col px-6 max-w-lg m-auto">
+    <div class="flex-grow flex flex-col px-6 w-full max-w-[400px] m-auto">
       <div class="w-full flex justify-center pt-7 pb-12">
         <img class="w-[78px]" :src="logo" alt="logo" />
       </div>
