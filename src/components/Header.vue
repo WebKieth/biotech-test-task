@@ -4,7 +4,7 @@ import Chevron from './icons/Chevron.vue';
 
 </script>
 <template>
-  <div class="w-full h-[62px] px-6 flex items-center justify-between border-b border-black/10">
+  <div class="w-full h-[115px] pt-[53px] px-6 flex items-center justify-between border-b border-black/10">
     <div class="w-1/3">
       <Chevron />
     </div>
